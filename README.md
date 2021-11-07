@@ -5,7 +5,5 @@ Right now, I'm currently interested in improving my React and Competitive Progra
 
 You can check me out [here](https://hand-burger.github.io/portfolio/)
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hand-burger.hand-burger)
-
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-burger&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-burger&layout=compact&theme=radical)
