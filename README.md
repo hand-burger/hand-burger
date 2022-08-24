@@ -1,6 +1,6 @@
 ## Hey there, im jack 👋
 
-I'm a high school student and software developer specializing in object oriented progamming with languages like C++ as well as python.
+I'm a student at the University of Toronto and software developer specializing in object oriented progamming with languages like C++ as well as python.
 
 Right now, I'm currently interested in improving my React and Competitive Programming skills as well as learning about OpenCV, algorithms & data structures.
 
