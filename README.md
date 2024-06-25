@@ -1,8 +1,6 @@
 ## Hey there, im jack 👋
 
-I'm a student at the University of Toronto specializing in object oriented progamming with languages like C++.
-
-Right now, I'm currently interested in improving my React and Competitive Programming skills as well as learning about algorithms & data structures and machine learning.
+I'm a computer science student at the University of Toronto. I like making cool things 👽
 
 You can check me out [here](https://hand-burger.github.io/portfolio/)
 
